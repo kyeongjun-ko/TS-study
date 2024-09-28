@@ -1,6 +1,9 @@
 # TS-study
 **타입스크립트(TypeScript) 도서 기반 발표 스터디**
 
+<img src="https://github.com/user-attachments/assets/a7ec69d7-b85d-45d5-8b9f-84ed7a636291" width="150px" height="150px" />
+
+<br/><br/>
 <br/>
 
 ## 💡스터디 목표
