@@ -52,7 +52,7 @@
 | 1    | 2024.10.03  | 경준   | [3장 고급 타입](https://sand-tapir-46f.notion.site/3-f5cf0151cc8042b499cb87e203bea2d5?pvs=4) |
 | 1    | 2024.10.03  | 슬기   | [4장 타입 확장하기 & 좁히기](https://glamorous-witness-058.notion.site/4-1138a4f41d7f80119e12eca7d570a6e0?pvs=4) |
 | 2    | 2024.10.09  | 보령   | [5장 타입 활용하기](https://thin-brisket-ae4.notion.site/5-1181725a42fe8067ab49faec0735c08f?pvs=4) <br/> [6장 타입스크립트 컴파일](https://thin-brisket-ae4.notion.site/6-1151725a42fe8075a76dc1db27a5cfec?pvs=4) |
-| 2    | 2024.10.09  | 경준   | 5장 <br/> 6장 |
+| 2    | 2024.10.09  | 경준   | [5장 타입 활용하기](https://sand-tapir-46f.notion.site/5-b6d376be583342bf8869e47893247171?pvs=4) <br/> [6장 타입스크립트 컴파일](https://sand-tapir-46f.notion.site/6-66835327452543a996a9059487a141b2?pvs=4) |
 | 2    | 2024.10.09  | 슬기   | 5장 <br/> 6장 |
 | 3    | 2024.10.16  | 보령   | [7장 비동기 호출](https://thin-brisket-ae4.notion.site/7-1151725a42fe80baa67fdded9bb1e604?pvs=4) <br/> 8장 |
 | 3    | 2024.10.16  | 경준   | 7장 <br/> 8장 |
