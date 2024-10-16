@@ -56,7 +56,8 @@
 | 2    | 2024.10.09  | 슬기   | [5장 타입 활용하기](https://glamorous-witness-058.notion.site/5-11b8a4f41d7f80228e49f067caa7d6c8?pvs=4) <br/> 6장 |
 | 3    | 2024.10.16  | 보령   | [7장 비동기 호출](https://thin-brisket-ae4.notion.site/7-1151725a42fe80baa67fdded9bb1e604?pvs=4) <br/> 8장 |
 | 3    | 2024.10.16  | 경준   | 7장 <br/> 8장 |
-| 3    | 2024.10.16  | 슬기   | 7장 <br/> 8장 |
+| 3    | 2024.10.16  | 슬기   | [9장 훅](https://glamorous-witness-058.notion.site/9-1218a4f41d7f8076a934e4697fcfdef2?pvs=4) |
 
 
 <br/><br/>
+₩
